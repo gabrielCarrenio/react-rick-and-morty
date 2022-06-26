@@ -1,2 +1,2 @@
 # react-rick-and-morty
-### link to [page](https://gabrielcarrenio.github.io/react-rick-and-morty/){:target="_blank"}
+### link to <a href="https://gabrielcarrenio.github.io/react-rick-and-morty/" target="_blank">page</a>
